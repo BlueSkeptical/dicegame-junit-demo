@@ -3,3 +3,4 @@ target
 lib
 .settings
 .project
+.DS_Store
